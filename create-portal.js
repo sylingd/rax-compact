@@ -1,7 +1,7 @@
-const { createElement } = require('react');
-const  { Modal } = require('remax/one');
+const { createElement } = require("react");
+const { Modal } = require("remax/one");
 
 export default function createPortal(element) {
-  console.log(Modal);
+  // console.log(Modal);
   return createElement(Modal, null, element);
 }

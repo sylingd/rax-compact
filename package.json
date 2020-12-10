@@ -21,6 +21,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/react": "^16.9.34",
+    "@types/react-dom": "^17.0.0",
     "concurrently": "^5.2.0",
     "react": "^16.13.1",
     "remax": "^2.6.0",
